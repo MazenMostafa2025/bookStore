@@ -1,1 +1,3 @@
-This is a very simple project using CRUD operations with routers, controllers to do CRUD operations on book store
+Simple book store provide CRUD operations.
+I used routers, controllers and postgres for database.
+Pure SQL Queries were used in this project.
